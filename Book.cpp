@@ -1,7 +1,6 @@
 #include<iostream>
 using namespace std;
 
-
 class Book{
     private:
         string book_title,book_author;
